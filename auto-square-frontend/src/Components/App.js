@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 import Header from './Header';
 import DataDisplay from './DataDisplay';
 import '../styles/App.css';
